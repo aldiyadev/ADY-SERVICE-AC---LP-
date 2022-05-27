@@ -1,0 +1,1053 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.outer-container {
+    position: relative;
+}
+
+.frame-1{
+    background-image: url(img/bg-putih-service-ac.webp);
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+.logo-dokter-mobil {
+    background-color: white;
+    width: 20%;
+    min-width: 250px;
+    padding: 20px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 0px 23px 23px;
+}
+
+.header-title {
+    font-style: italic;
+    font-weight: 800;
+    font-size: 84px;
+    line-height: 130%;
+    background: linear-gradient(180deg, #212121 0%, #5A5A5A 20.83%, #212121 38.02%, #212121 56.25%, #5A5A5A 76.04%, #212121 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: white;
+    text-shadow: 5px 6px 15px rgba(0, 0, 0, 0.35);
+}
+
+.sub-header {
+    font-style: italic;
+    font-weight: 800;
+    font-size: 52px;
+    background: linear-gradient(180deg, #EB1C23 0%, #C62127 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    /* text-fill-color: transparent; */
+}
+
+.sa-1 {
+    margin-left: -6%;
+    max-width: 800px;
+    width: 100%;
+}
+
+
+.down-arrow {
+    position: absolute;
+    bottom: 8%;
+    right: 5%;
+}
+
+.down-arrow-2 {
+    position: absolute;
+    bottom: 8%;
+    right: 5%;
+}
+
+.down-arrow-3{
+    position: absolute;
+    bottom: 5%;
+    right: 45%;
+}
+
+/* frame 2 */
+
+.frame-2{
+    background-image: url(img/bg-putih-service-ac.webp);
+    background-size: cover;
+    padding-bottom: 200px;
+} 
+
+.header-titleh1{
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 130%;
+    /* or 62px */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+
+.sa-2{
+    max-width: 800px;
+    width: 100%;
+    margin-left: -6%;
+}
+
+.titlef2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 130%;
+    /* or 39px */
+    
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #000000;
+}
+
+/* frame 3 */
+
+.frame-3{
+    background-image: url(img/bg-kenyamanan-service-ac.webp);
+    background-size: cover;
+    padding-bottom: 200px;
+}
+
+.header-titlef3{
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 51px;
+    line-height: 130%;
+    /* or 66px */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+    text-shadow: 4px 11px 7px rgba(0, 0, 0, 0.45);
+}
+
+.text-effect{
+    position: absolute;
+    width: 1128px;
+    height: 166px;
+    left: 161px;
+    top: 165px;
+}
+
+.text-effect2{
+    position: absolute;
+    width: 1200px;
+    height: 102px;
+    left: 119px;
+    top: 90px;
+}
+
+.text-effect3{
+    position: absolute;
+    width: 1200px;
+    height: 102px;
+    left: 119px;
+    top: 90px;
+}
+
+.text-effect4{
+    position: absolute;
+    width: 800px;
+    height: 102px;
+    left: 250px;
+    top: 820px;
+}
+
+.sub-titlef3{
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 59px;
+    line-height: 130%;
+    /* or 77px */
+    
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+    text-shadow: 4px 11px 7px rgba(0, 0, 0, 0.45);
+}
+
+/* frame 4 */
+
+.frame-4{
+    background-image: url(img/bg-putih-service-ac.webp);
+    background-size: cover;
+    padding-bottom: 300px;
+}
+
+.sa-4{
+    max-width: 800px;
+    width: 100%;
+}
+
+
+.header-titlef4{
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 130%;
+    /* identical to box height, or 81px */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+
+    color: #EB1C23;
+
+    text-shadow: 2px 8px 9px rgba(0, 0, 0, 0.15);
+    }
+
+    .titlef4{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 130%;
+        /* or 39px */
+
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        color: #000000;
+    }
+
+    /* frame 5 */
+
+    .frame-5{
+      background-image: url(img/bg-putih-service-ac2.png);
+      background-size: cover;
+      padding-bottom: 200px;
+      padding-top: 100px;
+    }
+
+    .header-titlef5{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 62px;
+        line-height: 130%;
+        /* identical to box height, or 81px */
+
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        color: #EB1C23;
+
+        text-shadow: 2px 8px 9px rgba(0, 0, 0, 0.15);
+    }
+
+    .header-title2f5{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 69px;
+        line-height: 130%;
+        /* identical to box height, or 90px */
+
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke: 2px #EB1C23;
+    }
+
+    .sub-headerf5{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 29px;
+        line-height: 130%;
+        /* or 38px */
+
+        text-align: center;
+        text-transform: uppercase;
+
+        color: #000000;
+    }
+
+    .checklist{
+        width: 100%;
+        max-width: 70px;
+        margin-left: 100px;
+    }
+
+    .titlef5{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 37px;
+        line-height: 130%;
+        text-transform: uppercase;
+        color: #000000;
+        margin-left: 200px;
+        margin-top: -70px;
+    }
+
+    .checkf5{
+        margin-top: 100px;
+    }
+
+    .jempol{
+        position: relative;
+        max-width: 100%;
+        width: 550px;
+        margin-left: 680px;
+        margin-top: -800px;
+    }
+
+    /* frame 6 */
+
+    .frame-6{
+        background-image: url(img/bg-sale-service-ac.webp);
+        background-size: cover;
+        padding-top: 100px;
+        padding-bottom: 200px;
+    }
+
+    .header-titlef6{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 60px;
+        line-height: 130%;
+        /* identical to box height, or 78px */
+
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        color: #FFFFFF;
+        text-shadow: 4px 11px 7px rgba(0, 0, 0, 0.45);
+    }
+
+    .sub-headerf6{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 35px;
+        line-height: 130%;
+        /* or 45px */
+
+        margin-top: 50px;
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        color: #FFFFFF;
+
+        text-shadow: 4px 11px 12px rgba(0, 0, 0, 0.35);
+    }
+
+    .sub-header2f6{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 56px;
+        line-height: 130%;
+        /* or 73px */
+
+        text-align: center;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke: 3px #FFFFFF;
+        text-shadow: 4px 6px 16px rgba(255, 255, 255, 0.45);
+    }
+
+    .rp500{
+        max-width: 900px;
+        width: 100%;
+        align-items: center;
+        margin-left: 100px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .sub-header500{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 35px;
+        line-height: 130%;
+        /* or 45px */
+
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        color: #FFFFFF;
+
+        text-shadow: 4px 11px 11px rgba(0, 0, 0, 0.35);
+    }
+
+    .sub-header5002{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 69px;
+        line-height: 130%;
+        /* identical to box height, or 90px */
+
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        background: linear-gradient(180deg, #FFD43D 0%, #F39000 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-fill-color: transparent;
+
+        text-shadow: 4px 11px 7px rgba(0, 0, 0, 0.45);
+    }
+
+    /* frame 7 */
+
+    .frame-7{
+        background-image: url(img/bg-sale-service-ac.webp);
+        background-size: cover;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .header-titlef7{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 60px;
+        line-height: 130%;
+        /* identical to box height, or 78px */
+
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        color: #FFFFFF;
+        text-shadow: 4px 11px 7px rgba(0, 0, 0, 0.45);
+    }
+
+    .sub-headerf7{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 65px;
+        line-height: 130%;
+        /* or 84px */
+
+        text-align: center;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke: 3px #FFFFFF;
+    }
+
+    .rp99{
+        max-width: 900px;
+        width: 100%;
+        align-items: center;
+        margin-left: 100px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .titlef7{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 60px;
+        line-height: 130%;
+        /* or 78px */
+
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        color: #FFFFFF;
+        text-shadow: 4px 11px 7px rgba(0, 0, 0, 0.45);
+    }
+
+    .sub-titlef7{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 60px;
+        line-height: 130%;
+        /* identical to box height, or 78px */
+
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        margin-top: 100px;
+        color: #FFFFFF;
+    }
+
+    .frame-8{
+        background-image: url(img/bg-putih-service-ac.webp);
+        background-size: cover;
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .checklistf8{
+        margin-left: 100px; 
+        max-width: 70px;
+        width: 100%;   
+    }
+
+    .titlef8{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 61px;
+        line-height: 130%;
+        /* or 79px */
+        margin-left: 150px;
+        margin-top: -70px;
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        color: #EB1C23;
+
+        text-shadow: 2px 8px 9px rgba(0, 0, 0, 0.15);
+    }
+
+    .sub-headerf8{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 69px;
+        line-height: 130%;
+        /* identical to box height, or 90px */
+
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+
+        margin-top: 50px;
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke: 2px #EB1C23;        
+        text-shadow: 2px 8px 9px rgba(0, 0, 0, 0.15);
+    }
+
+    .sub-titlef8{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 37px;
+        line-height: 130%;
+        margin-top: 50px;
+
+        text-align: center;
+        text-transform: uppercase;
+
+        color: #000000;
+    }
+
+    .sa-7{
+        max-width: 800px;
+        width: 100%;
+        margin-left: 14%;
+        margin-top: 50px;
+    }
+
+
+    .frame-9{
+        background-image: url(img/bg-putih-service-ac.webp);
+        background-size: cover;
+        padding-top: 100px;
+        padding-bottom: 200px;
+    }
+
+    .header-titlef9{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 46px;
+        line-height: 130%;
+        margin-bottom: 100px;
+        /* or 60px */
+
+        text-align: center;
+        text-transform: uppercase;
+
+        color: #000000;
+    }
+
+    .titlef9{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 61px;
+        line-height: 130%;
+        /* or 79px */
+        margin-left: 250px;
+        margin-top: -70px;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        color: #EB1C23;
+
+        text-shadow: 2px 8px 9px rgba(0, 0, 0, 0.15);
+    }
+
+    .sub-titlef9{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 69px;
+        line-height: 130%;
+        /* identical to box height, or 90px */
+
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+
+        margin-top: 50px;
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke: 2px #EB1C23;        
+        text-shadow: 2px 8px 9px rgba(0, 0, 0, 0.15); 
+    }
+
+    .sub-title2f9{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 61px;
+        line-height: 130%;
+        /* or 79px */
+        margin-top: 50px;
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        
+        color: #000000;
+    }
+
+    .wa{
+        max-width: 800px;
+        width: 100%;
+        margin-top: 50px;
+        margin-left: 168px;
+    }
+
+    /* frame 10 */
+
+    .frame-10{
+        background-image: url(img/bg-putih-service-ac.webp);
+        background-size: cover;
+        padding-top: 100px;
+        padding-bottom: 200px;
+    }
+
+    .sa-3 {
+        max-width: 800px;
+        width: 100%;
+    }
+
+    .sa-7-desc {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 135.5%;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        color: #000000;
+    }
+
+    h3{
+        font-style: italic;
+        font-weight: 800;
+        font-size: 51px;
+        line-height: 130%;
+        text-align: left;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        color: #EB1C23;
+        text-shadow: 2px 8px 9px rgba(0, 0, 0, 0.15);
+        margin-bottom: 2%;
+        margin-top: 4%;
+    }
+
+    /* frame 11 */
+
+    .frame-11{
+        background-image: url(img/bg-sale-service-ac.webp);
+        background-size: cover;
+        padding-top: 100px;
+        padding-bottom: 100px;  
+    }
+    
+    .header-titlef11{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 60px;
+        line-height: 130%;
+        /* identical to box height, or 78px */
+
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        color: #FFFFFF;
+        text-shadow: 4px 11px 7px rgba(0, 0, 0, 0.45);
+    }
+
+    .rp500f11{
+        max-width: 900px;
+        width: 100%;
+        align-items: center;
+        margin-left: 100px;
+        margin-top: 5px;
+    }
+
+    .sub-header-titlef11{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 74px;
+        line-height: 130%;
+        /* or 96px */
+        text-align: center;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke: 3px #FFFFFF;      
+        text-shadow: 4px 6px 16px rgba(255, 255, 255, 0.45);
+    }
+
+    .title-f11{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 60px;
+        line-height: 130%;
+        /* identical to box height, or 78px */
+
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        color: #FFFFFF;
+        text-shadow: 4px 11px 7px rgba(0, 0, 0, 0.45);
+    }
+
+    .sub-titlef11{
+        font-family: 'Poppins';
+        font-style: italic;
+        font-weight: 800;
+        font-size: 60px;
+        line-height: 130%;
+        /* identical to box height, or 78px */
+
+        text-align: center;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+
+        color: #FFFFFF;
+        text-shadow: 4px 11px 7px rgba(0, 0, 0, 0.45);
+    }
+
+    /* frame 12 */
+
+    .frame-12{
+        background-image: url(img/bg-putih-service-ac.webp);
+        background-size: cover;
+        padding-top: 100px;
+        padding-bottom: 200px;
+    }
+
+    @media only screen and (max-width: 600px) {
+
+        h3 {
+            font-size: 7vw;
+        }
+    
+        .sa-7-desc {
+            margin-top: 3%;
+            font-size: 4vw;
+        }
+    
+        .logo-dokter-mobil {
+            width: 30vw;
+            min-width: unset;
+        }
+    
+        .header-title {
+            font-size: 9vw;
+        }
+
+        .header-titleh1 {
+            font-size: 5vw;
+        }
+
+        .titlef2{
+            font-size: 3vw;
+        }
+
+        .header-titlef3{
+            font-size: 5vw;
+        }
+
+        .imgf3{
+            margin-left: -2%;
+            max-width: 800px;
+            width: 100%;
+        }
+
+        .sub-titlef3{
+            font-size: 5vw;
+        }
+
+        .header-titlef4{
+            font-size: 7vw;
+        }
+        
+        .titlef4{
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .header-title2f5{
+            font-size: 9vw;
+        }
+        
+        .sub-headerf5 {
+            font-size: 3vw;
+        }
+
+        .titlef5{
+            position: relative;
+            font-size: 3vw;
+        }
+
+        .checkf5{
+            max-width: 200px;
+            margin-left: -7%;
+            width: 100%;
+        }
+
+        .jempol{
+            position: relative;
+            max-width: 100%;
+            width: 300px;
+            margin-left: 255px;
+            margin-top: -800px;
+        }
+
+        .header-titlef6{
+            font-size: 6vw;
+        }
+
+        .sub-headerf6{
+            font-size: 4vw;
+            margin-bottom: 30px;
+        }
+
+        .sub-header2f6{
+            font-size: 7vw;
+        }
+
+        .rp500{
+            margin-left: -2%;
+            max-width: 800px;
+            width: 100%;
+            margin-bottom: 50px;
+        }
+
+        .sub-header500{
+            font-size: 4vw;
+        }
+
+        .sub-header5002{
+            font-size: 9vw;
+        }
+
+        .header-titlef7{
+            font-size: 7vw;
+        }
+
+       .rp99{
+            margin-left: 1%;
+            max-width: 800px;
+            width: 100%;
+            margin-bottom: 50px;
+       }
+
+       .titlef7{
+            font-size: 7vw;
+       }
+
+       .sub-titlef7{
+            font-size: 5vw;
+       }
+       
+       .titlef8{
+            position: relative;
+            font-size: 6vw;
+       }
+
+       .checklistf8{
+            max-width: 80px;
+            margin-left: 3%;
+            width: 100%;
+       }
+
+       .sub-titlef8{
+        font-size: 3vw;
+       }
+
+       .sa-7{
+             margin-left: 13%;
+             max-width: 400px;
+             width: 100%;
+       }
+
+       .header-titlef9{
+            font-size: 5vw;
+       }
+
+       .checklist{
+        max-width: 50px;
+        margin-left: 15%;
+        width: 100%;
+       }
+
+        .titlef9{
+            font-size: 6vw;
+            margin-bottom: 50px;
+        }
+
+        .sub-title2f9{
+            font-size: 8vw;
+        }
+
+        .wa{
+            margin-left: 1%;
+            max-width: 800px;
+            width: 100%;
+            margin-bottom: 50px;
+        }
+
+        .rp500f11{
+            margin-left: 1%;
+            max-width: 800px;
+            width: 100%;
+            margin-bottom: 50px;
+        }
+
+        .sub-header {
+            font-size: 6vw;
+        }
+        
+        .down-arrow {
+            width: 9%;
+        }
+    
+        .sa-2-title-up {
+            font-size :5vw;
+        }
+    
+        .sa-2-title-down {
+            font-size :3.3vw;
+        }
+    
+        .down-arrow-2 {
+            width: 9%;
+            bottom: unset;
+        }
+    
+        .sa-3-title-up {
+            font-size :9vw;
+        }
+    
+        .sa-3-title-right {
+            font-size :4.5vw;
+            text-align: center;
+        }
+    
+        .sa-5 {
+            margin: 0;
+            width: 100%;
+        }
+    
+        .sa-5-title-up {
+            font-size: 5vw;
+        }
+        
+        .sa-5-title-down {
+            font-size: 4vw;
+            margin: 3% 3% 0 3%;
+        }
+    
+        .sa-6-outline {
+            font-size: 11vw;
+        }
+
+        .text-effect{
+            position: absolute;
+            width: 550px;
+            height: 166px;
+            left: 30px;
+            top: 130px;
+        }
+        
+        .text-effect2{
+            position: absolute;
+            width: 550px;
+            height: 80px;
+            left: 30px;
+            top: 90px;
+        }
+        
+        .text-effect3{
+            position: absolute;
+            width: 550px;
+            height: 120px;
+            left: 30px;
+            top: 90px;
+        }
+        
+        .text-effect4{
+            position: absolute;
+            width: 400px;
+            height: 102px;
+            left: 100px;
+            top: 90;
+        }
+        
+    
+    }
+    
